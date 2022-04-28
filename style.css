@@ -1,0 +1,61 @@
+.wow {
+  width: 100px;
+}
+
+
+ a {
+  color: black;
+  text-decoration: none;
+  font-family:Tw cen Mt;
+  font-size: 20px; 
+  background-color: white;
+  border-radius: 5px;
+  padding: 5px;
+  
+   
+  
+  
+  
+}
+body{
+  background-image: url("imagem/background c.jpg");
+  background-size: cover;
+
+  font-family:Tw cen Mt;
+  text-align:center;
+  color:white;
+  font-size:30px;
+  height: 100vh;
+  
+  
+}
+
+.action {
+background-color: orange;
+}
+.action2{
+background-color: hotpink;
+  
+}
+.logo{
+  width:45%;
+}
+
+.etapas{
+font-size: 25px;
+  
+}
+
+.termos{
+color: white;
+text-decoration: underline;
+background:none;
+  
+}
+
+
+
+
+
+
+
